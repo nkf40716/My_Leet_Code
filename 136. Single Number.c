@@ -36,6 +36,7 @@ int singleNumber(int* nums, int numsSize) {
 }
 
 // 這是網路高手的C++ Code
+/*
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
@@ -47,4 +48,5 @@ public:
  
         return result;
     }
+    */
 };
