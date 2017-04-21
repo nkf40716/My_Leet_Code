@@ -1,1 +1,3 @@
-"# My_Leet_Code" 
+Welcome to my LeetCode solution, 
+
+Let's improve our algorithm together.
