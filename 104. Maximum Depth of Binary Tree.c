@@ -27,7 +27,7 @@ int maxDepth(struct TreeNode* root) {
 
 
 // 另一種寫法，較簡潔
-int maxDepth(TreeNode* root) {
+int maxDepth(struct TreeNode* root) {
     if(root == NULL){
         return 0;
     }
